@@ -1,0 +1,36 @@
+body {
+
+}
+
+#log{
+    top: 15%;
+    margin-left: 45%;
+    margin-top: 11%;
+}
+
+#email {
+
+    position: absolute;
+    top: 25%;
+    left: 37.5%;
+}
+
+#pass {
+
+    position: absolute ;
+    top: 35%;
+    left: 35.3%;
+}
+
+#back {
+
+    position: absolute ;
+    top: 8%;
+    left: 30%;
+}
+
+#submit {
+    position: absolute;
+    top: 45%;
+    margin-left: 35%;
+}

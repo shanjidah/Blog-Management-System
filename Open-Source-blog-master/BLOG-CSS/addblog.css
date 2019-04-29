@@ -1,0 +1,25 @@
+input[name = "blogtitle"]{
+    font-size: 100px;
+    color: #353538;
+
+
+}
+
+textarea{
+    font-size: 40px;
+    color: #353538;
+
+
+}
+
+input[name="submit"] {
+    background-color: #5d605f;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+}

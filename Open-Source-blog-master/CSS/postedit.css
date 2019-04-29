@@ -1,0 +1,42 @@
+body {
+    background-image: url("../Backgrounds/blogim.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#blog {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+
+#title_id {
+    position: relative;
+    top: 30%;
+    left: 30%;
+}
+
+#blog_id {
+    position: absolute;
+    top: 100%;
+    left: 47%;
+}
+
+
+
+#submit {
+
+    position: absolute;
+    top: 80%;
+    left: 60%;
+
+}
+
+#back {
+
+    position: absolute;
+    top: 5%;
+    left: 60%;
+
+}

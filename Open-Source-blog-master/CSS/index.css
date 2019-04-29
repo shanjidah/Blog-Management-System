@@ -1,0 +1,105 @@
+body {
+    background-image: url("../Backgrounds/index.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100%;
+    width: 100%;
+    overflow-x:hidden;
+
+
+}
+
+h1{
+    position: relative;
+    top: 40%;
+    left: 35%;
+
+}
+
+#posts {
+    border-style:double;
+    border-color:darkred;
+    position: relative;
+    top: 70%;
+    left: 3%;
+}
+
+#rec {
+    position: relative;
+    top: 70%;
+    left: -10%;
+}
+
+#pic {
+    position: relative;
+    top: 80%;
+    left: 40%;
+}
+#page {
+    position: relative;
+    top: 80%;
+    left: 70%;
+}
+
+#copy {
+    padding-top: 15%;
+    position: relative;
+    /* top: 200px; */
+    left: 90%;
+    width: 10%;
+}
+#logo {
+    position: relative;
+    top: 0%;
+    left: 36%;
+
+
+}
+#buttongroup {
+    position: relative;
+
+    top: 40%;
+    left: 40%;
+
+
+
+
+}
+#buttongroup2 {
+    position: relative;
+
+    top: 40%;
+    left: 50%;
+
+
+
+}
+#search {
+    position: absolute;
+    top: 32%;
+    left: 10%;
+
+
+
+}
+
+
+#recent {
+    position: relative;
+
+    top: 40%;
+    left: 13%;
+
+
+}
+
+
+#liked {
+    position: relative;
+
+    top: 40%;
+    left: 15%;
+
+
+
+}

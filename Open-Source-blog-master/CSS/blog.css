@@ -1,0 +1,97 @@
+#blog {
+    position: absolute;
+    top: 8%;
+    left: 21%;
+}
+body {
+    background-image: url("../Backgrounds/blogim.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mypost{
+    margin: 6%;
+    margin-left: 25%;
+}
+
+#title {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+#titletext {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+#write {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+#writetext {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+#picturetext {
+    position: absolute;
+    top: 150px;
+    left: 650px;
+
+}
+
+#picture {
+    position: absolute;
+    top: 150px;
+    left: 650px;
+
+}
+
+#submit {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+
+}
+
+#back {
+
+    position: absolute;
+    top: 150px;
+    left: 650px;
+
+}
+.file-field{
+    padding-left: 8%;
+}
+.form-control{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+#buttons {
+    margin-top: 10%;
+    margin-left: 6%;
+}
+.btn-success{
+    margin-left: 40%;
+}
+.btn-primary{
+    margin-left: 0%;
+}
+#myfile{
+    padding-right: 25% !important;
+    padding-left: 25% !important;
+    margin-left: -10% !important;
+    margin-top: 2% !important;
+    overflow: hidden;
+}
